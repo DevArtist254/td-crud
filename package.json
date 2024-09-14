@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Worker",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevArtist254/td-crud.git"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "devartist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevArtist254/td-crud/issues"
+  },
+  "homepage": "https://github.com/DevArtist254/td-crud#readme"
+}
